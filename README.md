@@ -7,5 +7,5 @@ To get image link, you have to go to network tab in developer tools
 
 
 
-Requires a kerboodle account
+Requires a PearsonActiveLearn account
 
