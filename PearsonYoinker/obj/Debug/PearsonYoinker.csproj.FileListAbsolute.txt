@@ -1,0 +1,12 @@
+D:\Visual Studio Repos\PearsonYoinker\PearsonYoinker\bin\Debug\PearsonYoinker.exe.config
+D:\Visual Studio Repos\PearsonYoinker\PearsonYoinker\bin\Debug\PearsonYoinker.exe
+D:\Visual Studio Repos\PearsonYoinker\PearsonYoinker\bin\Debug\PearsonYoinker.pdb
+D:\Visual Studio Repos\PearsonYoinker\PearsonYoinker\bin\Debug\itextsharp.dll
+D:\Visual Studio Repos\PearsonYoinker\PearsonYoinker\bin\Debug\itextsharp.xml
+D:\Visual Studio Repos\PearsonYoinker\PearsonYoinker\obj\Debug\PearsonYoinker.csprojAssemblyReference.cache
+D:\Visual Studio Repos\PearsonYoinker\PearsonYoinker\obj\Debug\PearsonYoinker.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\PearsonYoinker\PearsonYoinker\obj\Debug\PearsonYoinker.csproj.CopyComplete
+D:\Visual Studio Repos\PearsonYoinker\PearsonYoinker\obj\Debug\PearsonYoinker.exe
+D:\Visual Studio Repos\PearsonYoinker\PearsonYoinker\obj\Debug\PearsonYoinker.pdb
+D:\Visual Studio Repos\PearsonYoinker\PearsonYoinker\bin\Debug\Leaf.xNet.dll
+D:\Visual Studio Repos\PearsonYoinker\PearsonYoinker\bin\Debug\Leaf.xNet.xml
